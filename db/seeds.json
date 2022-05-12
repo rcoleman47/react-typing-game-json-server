@@ -1,52 +1,130 @@
 {
-  "toys": [
+  "highScores": [
     {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "name": "Yoda",
+      "score": 2250,
+      "wpm": 35,
+      "accuracy": 96,
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "name": "Luke Skywalker",
+      "score": 1975,
+      "wpm": 36,
+      "accuracy": 88,
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "name": "Anikan Skywalker",
+      "score": 1900,
+      "wpm": 25,
+      "accuracy": 83,
+      "id": 3
     },
     {
-      "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "name": "Obi-Wan Kenobi",
+      "score": 1875,
+      "wpm": 25,
+      "accuracy": 80,
+      "id": 4
     },
     {
-      "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "name": "Qui-Gon Jinn",
+      "score": 1825,
+      "wpm": 27,
+      "accuracy": 81,
+      "id": 5
     },
     {
-      "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "name": "Mace Windu",
+      "score": 1800,
+      "wpm": 22,
+      "accuracy": 81,
+      "id": 6
     },
     {
-      "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "name": "Rey Palpatine",
+      "score": 1750,
+      "wpm": 30,
+      "accuracy": 80,
+      "id": 7
     },
     {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "Ben Solo",
+      "score": 1690,
+      "wpm": 21,
+      "accuracy": 79,
+      "id": 8
+    },
+    {
+      "name": "Grogu",
+      "score": 1600,
+      "wpm": 23,
+      "accuracy": 77,
+      "id": 9
+    },
+    {
+      "name": "Leia Organa",
+      "score": 1500,
+      "wpm": 19,
+      "accuracy": 75,
+      "id": 10
+    }
+  ],
+  "gameTexts": [
+    {
+      "level": 1,
+      "episode": "Episode I",
+      "title": "THE PHANTOM MENACE",
+      "text": "Turmoil has engulfed the Galactic Republic. The taxation of trade routes to outlying star systems is in dispute. Hoping to resolve the matter with a blockade of deadly battleships, the greedy Trade Federation has stopped all shipping to the small planet of Naboo. While the Congress of the Republic endlessly debates this alarming chain of events, the Supreme Chancellor has secretly dispatched two Jedi Knights, the guardians of peace and justice in the galaxy, to settle the conflict...."
+    },
+    {
+      "level": 2,
+      "episode": "Episode II",
+      "title": "ATTACK OF THE CLONES",
+      "text": "There is unrest in the Galactic Senate. Several thousand solar systems have declared their intentions to leave the Republic. This separatist movement, under the leadership of the mysterious Count Dooku, has made it difficult for the limited number of Jedi Knights to maintain peace and order in the galaxy. Senator Amidala, the former Queen of Naboo, is returning to the Galactic Senate to vote on the critical issue of creating an ARMY OF THE REPUBLIC to assist the overwhelmed Jedi...."
+    },
+    {
+      "level": 3,
+      "episode": "Episode III",
+      "title": "REVENGE OF THE SITH",
+      "text": "War! The Republic is crumbling under attacks by the ruthless Sith Lord, Count Dooku. There are heroes on both sides. Evil is everywhere. In a stunning move, the fiendish droid leader, General Grievous, has swept into the Republic capital and kidnapped Chancellor Palpatine, leader of the Galactic Senate. As the Separatist Droid Army attempts to flee the besieged capital with their valuable hostage, two Jedi Knights lead a desperate mission to rescue the captive Chancellor...."
+    },
+    {
+      "level": 4,
+      "episode": "Episode IV",
+      "title": "A NEW HOPE",
+      "text": "It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the DEATH STAR, an armoured space station with enough power to destroy an entire planet. Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of the stolen plans that can save her people and restore freedom to the galaxy...."
+    },
+    {
+      "level": 5,
+      "episode": "Episode V",
+      "title": "THE EMPIRE STRIKES BACK",
+      "text": "It is a dark time for the Rebellion. Although the Death Star has been destroyed, Imperial troops have driven the Rebel forces from their hidden base and pursued them across the galaxy. Evading the dreaded Imperial Starfleet, a group of freedom fighters led by Luke Skywalker has established a new secret base on the remote ice world of Hoth. The evil lord Darth Vader, obsessed with finding young Skywalker, has dispatched thousands of remote probes into the far reaches of space...."
+    },
+    {
+      "level": 6,
+      "episode": "Episode VI",
+      "title": "THE RETURN OF THE JEDI",
+      "text": "Luke Skywalker has returned to his home planet of Tatooine in an attempt to rescue his friend Han Solo from the clutches of the vile gangster Jabba the Hutt. Little does Luke know that the GALACTIC EMPIRE has secretly begun construction on a new armored space station even more powerful than the first dreaded Death Star. When completed, this ultimate weapon will spell certain doom for the small band of rebels struggling to restore freedom to the galaxy...."
+    },
+    {
+      "level": 7,
+      "episode": "Episode VII",
+      "title": "THE FORCE AWAKENS",
+      "text": "Luke Skywalker has vanished. In his absence, the sinister FIRST ORDER has risen from the ashes of the Empire and will not rest until Skywalker, the last Jedi, has been destroyed. With the support of the REPUBLIC, General Leia Organa leads a brave RESISTANCE. She is desperate to find her brother Luke and gain his help in restoring peace and justice to the galaxy. Leia has sent her most daring pilot on a secret mission to Jakku, where an old ally has discovered a clue to Luke's whereabouts...."
+    },
+    {
+      "level": 8,
+      "episode": "Episode VIII",
+      "title": "THE LAST JEDI",
+      "text": "The FIRST ORDER reigns. Having decimated the peaceful Republic, Supreme Leader Snoke now deploys his merciless legions to seize military control of the galaxy. Only General Leia Organa's band of RESISTANCE fighters stand against the rising tyranny, certain that Jedi Master Luke Skywalker will return and restore a spark of hope to the fight. But the Resistance has been exposed. As the First Order speeds toward the rebel base, the brave heroes mount a desperate escape...."
+    },
+    {
+      "level": 9,
+      "episode": "Episode IV",
+      "title": "RISE OF SKYWALKER",
+      "text": "The dead speak! The galaxy has heard a mysterious broadcast, a threat of REVENGE in the sinister voice of the late EMPEROR PALPATINE. GENERAL LEIA ORGANA dispatches secret agents to gather intelligence, while REY, the last hope of the Jedi, trains for battle against the diabolical FIRST ORDER. Meanwhile, Supreme Leader KYLO REN rages in search of the phantom Emperor, determined to destroy any threat to his power...."
     }
   ]
 }
